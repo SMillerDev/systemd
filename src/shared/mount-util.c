@@ -8,6 +8,7 @@
 #include <unistd.h>
 #include <linux/loop.h>
 #include <linux/fs.h>
+#include <linux/mount.h>
 
 #include "alloc-util.h"
 #include "chase-symlinks.h"
